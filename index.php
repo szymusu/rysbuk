@@ -20,7 +20,6 @@
 <body oncontextmenu="return false;">
 <script>
     function click(element, button) {
-        console.log(2121)
         if (button === 0) {
             element.style.backgroundColor = 'pink'
         }
